@@ -7,7 +7,7 @@ const config = {
   url: 'https://hardews.github.io',
   baseUrl: '/docs',
   projectName: 'hardews.github.io',
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
 
   i18n: {
     defaultLocale: 'zh-Hans',
