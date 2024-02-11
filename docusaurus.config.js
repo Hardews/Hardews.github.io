@@ -1,11 +1,13 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Hardews\'s blog',
+  title: 'Hardews',
   tagline: '心无增减，得失随缘',
   favicon: "img/favicon.png",
 
-  url: 'https://hardews.cn',
+  url: 'https://hardews.github.io',
   baseUrl: '/docs',
+  projectName: 'hardews.github.io',
+  deploymentBranch: 'gh-pages',
 
   i18n: {
     defaultLocale: 'zh-Hans',
