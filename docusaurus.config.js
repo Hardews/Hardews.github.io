@@ -5,7 +5,7 @@ const config = {
   favicon: "img/favicon.png",
 
   url: 'https://hardews.github.io',
-  baseUrl: '/docs',
+  baseUrl: '/docs/',
   projectName: 'hardews.github.io',
   deploymentBranch: 'main',
 
