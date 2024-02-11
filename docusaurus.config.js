@@ -83,8 +83,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} 牛肉板面, Built with Docusaurus.
-      <a style='text-decoration:none' href='http://beian.miit.gov.cn'><p style='color:white'>桂ICP备2022010425号-1</p></a>`,
       },
     }),
 };
